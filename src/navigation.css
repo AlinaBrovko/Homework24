@@ -1,0 +1,15 @@
+.navigation{
+    grid-column: 1;
+    list-style-type: none;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.navigation li{
+    border-right: 5px solid rgb(4, 158, 247);
+    padding: 10px 20px;
+    background-color: rgb(229, 243, 248);
+}
+.navigation li:hover{
+    background-color: rgb(201, 238, 252);
+    cursor: pointer;
+}
